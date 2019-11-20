@@ -1,8 +1,7 @@
 language: node_js
 
 env:
-  NOW_TOKEN="mEstlvWcrvv0eAZt7ujzo4Fc" 
-
+  
 node_js:
   - "10.9.0"
 
